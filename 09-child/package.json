@@ -1,0 +1,12 @@
+{
+  "name": "my-package",
+  "module": "index.ts",
+  "type": "module",
+  "version": "1.0.3",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

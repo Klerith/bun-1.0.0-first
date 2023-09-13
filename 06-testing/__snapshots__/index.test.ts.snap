@@ -1,0 +1,10 @@
+// Bun Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`math addition 1`] = `10`;
+
+exports[`math test objects snapshot 1`] = `
+{
+  "age": 33,
+  "name": "John",
+}
+`;
